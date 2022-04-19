@@ -3,8 +3,9 @@
 Layout Inicial do DropBox com menu interativo. Desenvolvido com REACT e TYPESCRIPT
 
 Layout 💻📱🎨
-![Layout Desktop](./desktop1.png);
-![Layout Mobile](./mobile1.png);
+
+![Layout Desktop](./desktop1.png)
+![Layout Mobile](./mobile1.png)
 
 Code 👨‍💻
 
